@@ -1,3 +1,4 @@
+![projeto](https://github.com/DanilodRamos/costs/assets/116719740/227f21a3-986e-435d-8be4-1f9f59d63609)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
